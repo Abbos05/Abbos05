@@ -1,16 +1,25 @@
-## Hi there 👋
+# Привет, я Аббос 👋
 
-<!--
-**Abbos05/Abbos05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Веб-разработчик | React + Laravel | 20 лет
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои навыки
+
+**Frontend:** React, JavaScript, HTML, CSS  
+**Backend:** PHP, Laravel, MySQL  
+**Инструменты:** Docker, Git, VS Code  
+**AI:** OpenAI API, Telegram Bot API  
+
+---
+
+## 📫 Связаться со мной
+
+- Telegram: [https://t.me/id_a_005_a](https://t.me/id_a_005_a)
+- Email: [abbosdadomatov78@gmail.com]
+
+---
+
+## ⚡ О себе
+
+Мне 20 лет. Начинал с верстки, теперь делаю полноценные веб-приложения. Хочу создавать полезные сервисы с помощью кода и AI.
