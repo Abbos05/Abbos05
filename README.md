@@ -6,10 +6,21 @@
 
 ## 🚀 Мои навыки
 
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend:** PHP, Laravel, MySQL  
-**Инструменты:** Docker, Git, VS Code  
-**AI:** OpenAI API, Telegram Bot API  
+| Категория | Технологии |
+|-----------|------------|
+| **Frontend** | React, JavaScript, HTML5, CSS3, Tailwind |
+| **Backend** | PHP, Laravel, MySQL, REST API |
+| **DevOps** | Docker, Git, GitHub Actions |
+| **Тестирование** | PHPUnit, Jest, Postman |
+| **AI/Автоматизация** | OpenAI API, Telegram Bot API |
+
+---
+
+## 📂 Мои лучшие проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [🛒 Маркетплейс](https://github.com/Abbos05/marketplace) | Торговая площадка с авторизацией, корзиной, оплатой | Laravel, React, MySQL |
 
 ---
 
